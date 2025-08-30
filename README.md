@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NASM, x86_64 & i386 architecture and OS Development**
 
-- 👯 I’m looking to collaborate on [LxcidOS](https://github.com/LxcidH/LxcidOS)
-
 - 📫 How to reach me **Discord: lxcid2293**
 
 <h3 align="left">Connect with me:</h3>
